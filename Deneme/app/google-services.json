@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064714987532",
+    "project_id": "deneme-dc624",
+    "storage_bucket": "deneme-dc624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064714987532:android:5530cfc1a755f6d7352629",
+        "android_client_info": {
+          "package_name": "com.nexis.deneme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyHTySS9kQipkSQtVaQCC45Z5Pj5uPHFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
